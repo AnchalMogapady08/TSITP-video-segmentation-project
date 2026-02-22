@@ -1,2 +1,2 @@
-# TSITP-video-segmentation-project
+# Character-segementation-in-video-frames
 Deep learning based video segmentation using CNN
